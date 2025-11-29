@@ -7,7 +7,7 @@ Personal Claude Code plugin.
 First, add the marketplace:
 
 ```
-/marketplace add vvelikodny/velikodnys-claude-code
+/plugin marketplace add vvelikodny/velikodnys-claude-code
 ```
 
 Then install the plugin:
