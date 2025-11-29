@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "velikodnys-claude-code",
-      "source": ".",
+      "source": "./",
       "description": "Personal Claude Code plugin with Context7",
       "version": "1.0.0",
       "author": {
