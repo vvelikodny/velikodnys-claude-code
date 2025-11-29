@@ -1,0 +1,31 @@
+{
+  "name": "velikodnys-claude-code",
+  "owner": {
+    "name": "vvelikodnyi",
+    "email": "vvelikodnyi@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugin with Context7 MCP server",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "velikodnys-claude-code",
+      "source": ".",
+      "description": "Personal Claude Code plugin with Context7",
+      "version": "1.0.0",
+      "author": {
+        "name": "vvelikodnyi"
+      },
+      "license": "MIT",
+      "keywords": ["claude-code", "plugin", "context7"],
+      "mcpServers": {
+        "context7": {
+          "command": "npx",
+          "args": ["-y", "@upamune/context7@latest"]
+        }
+      },
+      "strict": false
+    }
+  ]
+}
