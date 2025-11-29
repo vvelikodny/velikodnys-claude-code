@@ -1,0 +1,15 @@
+{
+  "name": "velikodnys-claude-code",
+  "version": "1.0.0",
+  "description": "Personal Claude Code plugin with Context7",
+  "main": "index.js",
+  "scripts": {
+    "install": "npx -y @upamune/context7@latest"
+  },
+  "keywords": ["claude-code", "plugin", "context7"],
+  "author": "vvelikodnyi",
+  "license": "MIT",
+  "dependencies": {
+    "@upamune/context7": "latest"
+  }
+}
