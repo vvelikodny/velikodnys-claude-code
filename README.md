@@ -1,4 +1,4 @@
-# velikodnys-claude-code
+# Velikodnyi's Claude Code Setup
 
 Personal Claude Code plugin.
 
