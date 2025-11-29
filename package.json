@@ -4,12 +4,12 @@
   "description": "Personal Claude Code plugin with Context7",
   "main": "index.js",
   "scripts": {
-    "install": "npx -y @upamune/context7@latest"
+    "install": "npx -y @upstash/context7-mcp@latest"
   },
   "keywords": ["claude-code", "plugin", "context7"],
   "author": "vvelikodnyi",
   "license": "MIT",
   "dependencies": {
-    "@upamune/context7": "latest"
+    "@upstash/context7-mcp": "latest"
   }
 }
