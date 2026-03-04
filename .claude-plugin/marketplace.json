@@ -5,20 +5,20 @@
     "email": "vvelikodnyi@users.noreply.github.com"
   },
   "metadata": {
-    "description": "Personal Claude Code plugin with Context7 MCP server",
-    "version": "1.0.1"
+    "description": "Personal Claude Code plugin with agent toolkit: coding rules, skills, hooks, and Context7 MCP",
+    "version": "2.0.0"
   },
   "plugins": [
     {
       "name": "velikodnys-claude-code",
       "source": "./",
-      "description": "Personal Claude Code plugin with Context7",
-      "version": "1.0.1",
+      "description": "Agent toolkit plugin with coding standards, changelog skill, prompt hooks, and Context7 MCP",
+      "version": "2.0.0",
       "author": {
         "name": "vvelikodnyi"
       },
       "license": "MIT",
-      "keywords": ["claude-code", "plugin", "context7"],
+      "keywords": ["claude-code", "plugin", "context7", "agent-toolkit", "rules", "skills", "hooks"],
       "mcpServers": {
         "context7": {
           "command": "npx",

@@ -1,12 +1,12 @@
 {
   "name": "velikodnys-claude-code",
-  "version": "1.0.1",
-  "description": "Personal Claude Code plugin with Context7",
+  "version": "2.0.0",
+  "description": "Agent toolkit plugin with coding standards, changelog skill, prompt hooks, and Context7 MCP",
   "main": "index.js",
   "scripts": {
     "install": "npx -y @upstash/context7-mcp@latest"
   },
-  "keywords": ["claude-code", "plugin", "context7"],
+  "keywords": ["claude-code", "plugin", "context7", "agent-toolkit", "rules", "skills", "hooks"],
   "author": "vvelikodnyi",
   "license": "MIT",
   "dependencies": {
